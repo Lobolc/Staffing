@@ -11,15 +11,15 @@ En este caso, las restricciones añadidas son:
 
 $\bullet$ Tenemos cada monitorista y su disponibilidad semanal (todos están siempre disponibles) en un fichero Excel, junto con su "nivel de habilidad" (de 1 a 100).
 
-$\bullet$ Cada trabajador tiene que tener un descanso de 16 horas al día.
+$\bullet$ Cada monitorista deberá tener un descanso de 16 horas al día.
 
-$\bullet$ Cada trabajador tiene que tener un descanso de 2 días a la semana.
+$\bullet$ Cada monitorista deberá tener un descanso de 2 días a la semana.
 
-$\bullet$ Cada trabajador tiene que trabajar como máximo 8 horas por día.
+$\bullet$ Cada monitorista deberá trabajar como máximo 8 horas por día.
 
 $\bullet$ Los días de trabajo están separados en tres turnos de 8 horas (0-8, 8-16, 16-24).
 
-$\bullet$ Un trabajador con un nivel de habilidad < 25 no puede quedarse solo.
+$\bullet$ Un monitorista con un nivel de habilidad < 25 no puede quedarse solo.
 
 $\bullet$ Un monitorista con un nivel de habilidad > 90 no puede trabajar los fines de semana.
 
