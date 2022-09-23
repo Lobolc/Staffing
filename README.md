@@ -17,7 +17,7 @@ $\bullet$ Cada trabajador tiene que tener un descanso de  horas a la semana.
 
 $\bullet$ Cada trabajador tiene que trabajar como máximo 8 horas por día.
 
-$\bullet$ Los días de trabajo están separados en seis turnos de 4 horas (0-8, 8-16, 16-24).
+$\bullet$ Los días de trabajo están separados en seis turnos de 8 horas (0-8, 8-16, 16-24).
 
 $\bullet$ Un trabajador con un nivel de habilidad < 25 no puede quedarse solo.
 
