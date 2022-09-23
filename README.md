@@ -9,7 +9,7 @@ Supongamos  que tenemos un centro de monitore que debe funcionar las 24 horas de
 
 En este caso, las restricciones añadidas son:
 
-\bullet Tenemos cada monitorista y su disponibilidad semanal (todos están siempre disponibles) en un fichero Excel, junto con su "nivel de habilidad" (de 1 a 100).
+$\bullet$ Tenemos cada monitorista y su disponibilidad semanal (todos están siempre disponibles) en un fichero Excel, junto con su "nivel de habilidad" (de 1 a 100).
 Cada trabajador tiene que tener un descanso de 16 horas al día.
 Cada trabajador tiene que tener un descanso de  horas a la semana.
 Cada trabajador tiene que trabajar como máximo 8 horas por día.
