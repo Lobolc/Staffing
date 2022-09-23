@@ -13,7 +13,7 @@ $\bullet$ Tenemos cada monitorista y su disponibilidad semanal (todos están sie
 
 $\bullet$ Cada trabajador tiene que tener un descanso de 16 horas al día.
 
-$\bullet$ $Cada trabajador tiene que tener un descanso de  horas a la semana.
+$\bullet$ Cada trabajador tiene que tener un descanso de  horas a la semana.
 
 $\bullet$ Cada trabajador tiene que trabajar como máximo 8 horas por día.
 
