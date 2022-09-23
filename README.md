@@ -5,7 +5,7 @@ Este es un planificador de turnos, que toma los datos de unos archivos de Excel 
 
 Descripción del problema
 
-Supongamos  que tenemos un centro de monitore que debe funcionar las 24 horas del día, y que tenemos una cantidad mínima de trabajadores necesarios, 56, para hacerlo funcionar en cada 8 horas (lunes de 0 a 8, lunes de 8 a 16, ... domingo de 16 a 24, domingo de 18 a 24). Tenemos que crear un programa de turnos que esté sujeto a ciertas restricciones.
+Supongamos  que tenemos un centro de monitore que debe funcionar las 24 horas del día, y que tenemos una cantidad mínima de trabajadores necesarios, 56, para hacerlo funcionar en cada 8 horas (lunes de 0 a 8, lunes de 8 a 16, ..., domingo de 16 a 24, domingo de 16 a 24). Tenemos que crear un programa de turnos que esté sujeto a ciertas restricciones.
 
 En este caso, las restricciones añadidas son:
 
