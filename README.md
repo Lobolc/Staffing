@@ -13,11 +13,15 @@ $\bullet$ Tenemos cada monitorista y su disponibilidad semanal (todos están sie
 
 $\bullet$ Cada trabajador tiene que tener un descanso de 16 horas al día.
 
-$\bullet$ Cada trabajador tiene que tener un descanso de  horas a la semana.
+$\bullet$ Cada trabajador tiene que tener un descanso de 2 días a la semana.
 
 $\bullet$ Cada trabajador tiene que trabajar como máximo 8 horas por día.
 
-$\bullet$ Los días de trabajo están separados en seis turnos de 8 horas (0-8, 8-16, 16-24).
+$\bullet$ Los días de trabajo están separados en tres turnos de 8 horas (0-8, 8-16, 16-24).
 
 $\bullet$ Un trabajador con un nivel de habilidad < 25 no puede quedarse solo.
+
+$\bullet$ Un monitorista con un nivel de habilidad > 90 no puede trabajar los fines de semana.
+
+$\bullet$ Los monitoristas tendrán tres turnos durante el día y dos turnos durante la noche.
 
