@@ -11,7 +11,7 @@ En este caso, las restricciones añadidas son:
 
 $\bullet$ Tenemos cada monitorista y su disponibilidad semanal (todos están siempre disponibles) en un fichero Excel, junto con su "score de productividad" (de 1 a 100).
 
-$\bullet$ Cada monitorista deberá tener un descanso de 16 horas al día.
+$\bullet$ El horario considerado como de noche es el correspondiente a 0-8.
 
 $\bullet$ Cada monitorista deberá tener un descanso de 2 días a la semana.
 
@@ -24,4 +24,6 @@ $\bullet$ Un monitorista con un score de productividad < 25 no puede quedarse so
 $\bullet$ Un monitorista con un score de productividad > 90 no puede trabajar los fines de semana.
 
 $\bullet$ Los monitoristas tendrán tres turnos durante el día y dos turnos durante la noche.
+
+$\bullet$ Los turnos no podrán ser consecutivos.
 
