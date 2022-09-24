@@ -1,4 +1,4 @@
-# Staff planning
+# Staffing 
 
 Este es un planificador de turnos, que toma los datos de unos archivos de Excel y devuelve un CSV con los turnos semanales de cada trabajador.
 
