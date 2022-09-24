@@ -19,9 +19,9 @@ $\bullet$ Cada monitorista deberá trabajar como máximo 8 horas por día.
 
 $\bullet$ Los días de trabajo están separados en tres turnos de 8 horas (0-8, 8-16, 16-24).
 
-$\bullet$ Un monitorista con un nivel de habilidad < 25 no puede quedarse solo.
+$\bullet$ Un monitorista con un score de productividad < 25 no puede quedarse solo.
 
-$\bullet$ Un monitorista con un nivel de habilidad > 90 no puede trabajar los fines de semana.
+$\bullet$ Un monitorista con un score de productividad > 90 no puede trabajar los fines de semana.
 
 $\bullet$ Los monitoristas tendrán tres turnos durante el día y dos turnos durante la noche.
 
