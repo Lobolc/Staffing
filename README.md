@@ -15,7 +15,7 @@ $\bullet$ El horario considerado como de noche es el correspondiente a 23:00-07:
 
 $\bullet$ Cada monitorista deberá tener un descanso de 1 día a la semana.
 
-$|bullet$ Si un monitorista descansa un día, deberá trabjar el siguiente día en el primer turno.
+$\bullet$ Si un monitorista descansa un día, deberá trabjar el siguiente día en el primer turno.
 
 $\bullet$ Cada monitorista deberá trabajar como máximo 8 horas por día.
 
