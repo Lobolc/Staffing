@@ -33,7 +33,7 @@ $\bullet$ Si un monitorista descansa un día, deberá trabajar el siguiente día
 
 $\bullet$ Dado que un monitorista ya trabajó un turno, no puede trabajar los dos siguientes turnos subsecuentes.
 
-$\bullet$ Los monitoristas tendrán dos turnos en la mañana (07:00-16:00), dos turnos en la tarde (13:00-22:00) y dos turnos en la noche (22:00-07:00). La regla anterior se sustituye por la siguiente: dado que a un monitorista se le ha asignado un turno, deberá permanecer en dicho turno durante una semana.
+$\bullet$ Los monitoristas tendrán dos turnos en la mañana (07:00-16:00), dos turnos en la tarde (13:00-22:00) y dos turnos en la noche (22:00-07:00). La regla anterior se sustituye por la siguiente: dado que a un monitorista se le ha asignado un turno, deberá permanecer en dicho turno durante toda una semana.
 
 $\bullet$ Todos los monitoristas tienen la misma probabilidad de descansar los fines de semana. 
 
