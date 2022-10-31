@@ -23,11 +23,11 @@ $\bullet$ El horario considerado como de noche es el correspondiente a 22:00-07:
 
 $\bullet$ Cada monitorista deberá tener un descanso de 1 día a la semana.
 
-$\bullet$ Si un monitorista descansa un día, deberá trabajar el siguiente día en el primer turno.
+$\bullet$ Si un monitorista descansa un día, deberá trabajar el siguiente día en el primer turno. 
 
 $\bullet$ Dado que un monitorista ya trabajó un turno, no puede trabajar los dos siguientes turnos subsecuentes.
 
-$\bullet$ Los monitoristas tendrán dos turnos en la mañana (07:00-16:00), dos turnos en la tarde (13:00-22:00) y dos turnos en la noche (22:00-07:00).
+$\bullet$ Los monitoristas tendrán dos turnos en la mañana (07:00-16:00), dos turnos en la tarde (13:00-22:00) y dos turnos en la noche (22:00-07:00). La regla anterior se sustituye por la siguiente: dado que a un monitorista se le ha asignado un turno, deberá permanecer en dicho turno durante una semana.
 
 $\bullet$ Todos los monitoristas tienen la misma probabilidad de descansar los fines de semana. 
 
