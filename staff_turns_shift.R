@@ -1,4 +1,4 @@
-## Shceduling Version 2
+## Scheduling Version 2
 ## Miguel López Cruz
 
 ## usage:
